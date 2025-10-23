@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+```
 index.html
 <!DOCTYPE html>
 <html>
@@ -453,7 +453,7 @@ style.css
   line-height: normal;
 }
 
-
+```
 
 
 ##OUTPUT:
